@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin-top: 10px;
+}
+#roll{
+    font-size: 3em;
+    cursor: pointer;
+    background-color: orange;
+    border-radius: 5px;
+
+}
+#roll:hover{
+    background-color:orangered;
+}
+.label{
+    font-size: 2em;
+    margin-top: 5px;
+}
